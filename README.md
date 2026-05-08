@@ -15,6 +15,9 @@ Undergraduate student in Geodesy Engineering at Universitas Diponegoro, Semarang
 
 End-to-end remote sensing pipeline mapping industrial land cover in the Karawang industrial corridor, West Java. Combines Sentinel-1 SAR and Sentinel-2 multispectral imagery via XGBoost classification to produce 1,063 industrial polygons over a 122 km² area of interest. Includes documented human-in-the-loop refinement and an explicit limitations section.
 
+**[Headless SfM Engine](https://github.com/devonrama/Headless-SfM-Engine)**  
+Async REST orchestrator for resource-constrained binary tools, demonstrated with COLMAP for Structure-from-Motion reconstruction. Single-tenant FastAPI service with subprocess timeout, payload validation, and VRAM-bounded preprocessing.
+
 **Stack:** Python, rasterio, geopandas, scikit-image, XGBoost, ESA SNAP
 
 ## Currently Learning
